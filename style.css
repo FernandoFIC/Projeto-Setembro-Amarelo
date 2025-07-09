@@ -1,0 +1,22 @@
+body {
+  position: relative;
+}
+:root {
+  --cor-amarela: #f9d218;
+  --cor-cinza: #393835;
+  --cor-azul: #40628e;
+  --cor-preta: #000000;
+}
+.section {
+  padding: 80px 0;
+}
+#hero {
+  background: #f8f9fa;
+  padding: 120px 0;
+}
+.portfolio-item {
+  margin-bottom: 30px;
+}
+#navbar-main {
+  background-color: var(--cor-amarela);
+}
