@@ -34,3 +34,20 @@ h5 {
 .fs-1 {
   background-color: #f9d218;
 }
+.footer-link {
+  color: #ffffff; /* Cor branca para os links do footer */
+  text-decoration: none; /* Remove o sublinhado dos links */
+  transition: color 0.3s ease; /* Transição suave para o hover */
+}
+.footer-link:hover {
+  color: var(--cor-amarela); /* Cor amarela no hover */
+}
+.social-icon {
+  color: #ffffff;
+  font-size: 24px;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+.social-icon:hover {
+  color: var(--cor-amarela);
+}
