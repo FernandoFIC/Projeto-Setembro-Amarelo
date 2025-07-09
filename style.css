@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sarala:wght@400;700&display=swap");
 body {
   position: relative;
 }
@@ -7,16 +10,27 @@ body {
   --cor-azul: #40628e;
   --cor-preta: #000000;
 }
+h2,
+h5 {
+  color: var(--cor-azul);
+}
 .section {
   padding: 80px 0;
 }
 #hero {
-  background: #f8f9fa;
+  background: #393835;
   padding: 120px 0;
+  font-family: "Reem Kufi", sans-serif;
+  color: var(--cor-amarela);
 }
 .portfolio-item {
   margin-bottom: 30px;
 }
 #navbar-main {
   background-color: var(--cor-amarela);
+  font-family: "Sarala", sans-serif;
+  font-weight: 700;
+}
+.fs-1 {
+  background-color: #f9d218;
 }
