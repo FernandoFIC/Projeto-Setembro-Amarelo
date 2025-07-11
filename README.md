@@ -119,11 +119,10 @@ setembro-amarelo/
 ---
 💛Se precisar, peça ajuda!💛
 
+![Fernando](https://img.shields.io/badge/Fernando_F%C3%A1bio_Inoc%C3%AAncio_Cavalcante-ffe600?style=for-the-badge&logo=github&logoColor=black&link=https%3A%2F%2Fgithub.com%2FFernandoFIC)
 
-**Fernando Fábio Inocêncio Cavalcante;**
+![Davi](https://img.shields.io/badge/Davi_Rocha_Fortes_Bezerra-ffe600?style=for-the-badge&logo=github&logoColor=black&link=https%3A%2F%2Fgithub.com%2Fdavirfb)
 
-**Davi Rocha Fortes Bezerra;**
+![Lucas](https://img.shields.io/badge/Lucas_Henrique_Ferreira_Alves-ffe600?style=for-the-badge&logo=github&logoColor=black&link=https%3A%2F%2Fgithub.com%2Flucashf04)
 
-**Lucas Henrique Ferreira Alves;**
-
-**Christopher da Silva Nascimento.**
+![Christopher](https://img.shields.io/badge/Christopher_da_Silva_Nascimento-ffe600?style=for-the-badge&logo=github&logoColor=black&link=https%3A%2F%2Fgithub.com%2FChristopher-Nascimento)
