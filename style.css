@@ -51,3 +51,8 @@ h5 {
 .social-icon:hover {
   color: var(--cor-amarela);
 }
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: var(--cor-amarela);
+}
