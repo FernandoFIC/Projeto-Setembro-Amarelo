@@ -56,3 +56,11 @@ h5 {
   box-shadow: none;
   border-color: var(--cor-amarela);
 }
+.btn {
+  background-color: var(--cor-preta);
+  color: white;
+}
+.btn:hover {
+  background-color: var(--cor-cinza);
+  color: white;
+}
