@@ -2,7 +2,7 @@
 
 [![Setembro Amarelo](https://img.shields.io/badge/Campanha-Setembro%20Amarelo-ffe600?style=for-the-badge&logoSize=auto)](https://www.setembroamarelo.com/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
-[![Flask](https://img.shields.io/badge/Flask-2.2.2-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/stable/)
+[![Flask](https://img.shields.io/badge/Django-5.2.4-092E20?style=for-the-badge&logo=django&logoColor=%23092E20)](https://www.djangoproject.com/download/)
 [![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/)
 
 Este projeto é destinado ao desenvolvimento de uma aplicação web completa com o objetivo de divulgar e apoiar a campanha **Setembro Amarelo**, o mês da prevenção ao suicídio. O objetivo da plataforma é servir como um canal de informações não oficial e reunir recursos destinados a ajudarem pessoas que possam estar passando por momentos difíceis. **Se precisar, peça ajuda!**
@@ -27,12 +27,10 @@ A aplicação foi construída utilizando um conjunto de tecnologias modernas, se
     * `HTML5`: Para a estruturação semântica do conteúdo.
     * `CSS3`: Para a estilização, layout e design responsivo, seguindo a identidade visual do Setembro Amarelo.
     * `Bootstrap`: Para elementos avançados de estilização, padronizando elementos visuais.
-    * `JavaScript`: Para a interatividade e o carregamento dinâmico das mensagens no mural, consumindo a API do back-end.
 
 * **Back-end (Lógica do Servidor):**
     * `Python 3`: Linguagem principal para toda a lógica da aplicação.
-    * `Flask`: Um micro-framework leve e poderoso para criar o servidor web, gerenciar as rotas e a API.
-    * `Django`:...
+    * `Django`: Um framework robusto para desenvolver aplicações web complexas de forma rápida, com um ORM poderoso e um painel de administração integrado.
 
 * **Banco de Dados:**
     * `SQLite 3`: Um banco de dados relacional baseado em arquivo, ideal para projetos de pequeno e médio porte pela sua simplicidade e por não necessitar de um servidor dedicado.
