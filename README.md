@@ -99,16 +99,11 @@ Pronto! A aplicação estará rodando em sua máquina local.
 
 ```
 setembro-amarelo/
-|-- app.py             # Arquivo principal do Flask (Back-end)
-|-- database.py        # Script para criar o banco de dados
-|-- static/            # Pasta para arquivos estáticos
-|   |-- css/
-|   |   `-- style.css  # Folha de estilos
-|   `-- js/
-|       `-- script.js  # Código JavaScript
+|-- gerador_site.py    # Arquivo principal do Django (Back-end)
+|-- style.css          # Folha de estilos
 |-- templates/         # Pasta para os templates HTML
 |   |-- index.html     # Página inicial com o formulário
-|   `-- mural.html     # Página para exibir as mensagens
+|   `-- contato.html   # Página para contato com os desenvolvedores
 |-- .gitignore         # Arquivo para ignorar arquivos no Git
 |-- requirements.txt   # Dependências do Python
 `-- README.md          # Este arquivo de documentação
