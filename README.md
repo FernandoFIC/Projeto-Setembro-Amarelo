@@ -83,10 +83,10 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
     python database.py
     ```
 
-6.  **Inicie o servidor Flask:**
+6.  **Inicie o servidor Django:**
     Agora, sua aplicação está pronta para ser executada!
     ```bash
-    python app.py
+    python gerador_site.py
     ```
 
 7.  **Acesse a aplicação:**
@@ -100,6 +100,7 @@ Pronto! A aplicação estará rodando em sua máquina local.
 ```
 setembro-amarelo/
 |-- gerador_site.py    # Arquivo principal do Django (Back-end)
+|-- database.py        # Arquivo principal do banco de dados
 |-- style.css          # Folha de estilos
 |-- templates/         # Pasta para os templates HTML
 |   |-- index.html     # Página inicial com o formulário
