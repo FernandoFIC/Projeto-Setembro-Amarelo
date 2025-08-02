@@ -29,7 +29,7 @@
         >
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="#hero">Início</a>
+              <a class="nav-link" href="#">Início</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#sobre">sobre</a>
@@ -50,8 +50,16 @@
         </div>
       </div>
     </nav>
-
-    <section id="hero" class="text-center">
+    <!--Por algum motivo, a estilização funcionou apenas pelo style.-->
+    <section
+      class="text-center"
+      style="
+        background: #393835;
+        padding: 120px 0;
+        font-family: 'Reem Kufi', sans-serif;
+        color: var(--cor-amarela);
+      "
+    >
       <div class="row align-items-center">
         <div class="col-3">
           <img src="{%static 'blog/img/logo.png'%}" />
