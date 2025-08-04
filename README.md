@@ -3,7 +3,7 @@
 [![Setembro Amarelo](https://img.shields.io/badge/Campanha-Setembro%20Amarelo-ffe600?style=for-the-badge&logoSize=auto)](https://www.setembroamarelo.com/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Django-5.2.4-092E20?style=for-the-badge&logo=django&logoColor=%23092E20)](https://www.djangoproject.com/download/)
-[![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17.5-%234169E1?style=for-the-badge&logo=postgresql&labelColor=black)](https://www.postgresql.org/)
 
 Este projeto é destinado ao desenvolvimento de uma aplicação web completa com o objetivo de divulgar e apoiar a campanha **Setembro Amarelo**, o mês da prevenção ao suicídio. O objetivo da plataforma é servir como um canal de informações não oficial e reunir recursos destinados a ajudarem pessoas que possam estar passando por momentos difíceis. **Se precisar, peça ajuda!**
 
