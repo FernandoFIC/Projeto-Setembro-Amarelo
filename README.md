@@ -33,7 +33,7 @@ A aplicação foi construída utilizando um conjunto de tecnologias modernas, se
     * `Django`: Um framework robusto para desenvolver aplicações web complexas de forma rápida, com um ORM poderoso e um painel de administração integrado.
 
 * **Banco de Dados:**
-    * `SQLite 3`: Um banco de dados relacional baseado em arquivo, ideal para projetos de pequeno e médio porte pela sua simplicidade e por não necessitar de um servidor dedicado.
+    * `PostgreSQL`: Um sistema de banco de dados objeto-relacional, conhecido por sua robustez, escalabilidade e conformidade com os padrões SQL. É ideal para aplicações complexas e de grande porte que exigem alta performance e confiabilidade.
 
 ## 🚀 Como Executar o Projeto Localmente
 
@@ -56,7 +56,7 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
 
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd projeto-setembro-amarelo
+    cd Projeto-Setembro-Amarelo
     ```
 
 3.  **Crie e ative um ambiente virtual:**
