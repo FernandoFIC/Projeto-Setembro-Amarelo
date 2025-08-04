@@ -17,12 +17,7 @@ h5 {
 .section {
   padding: 80px 0;
 }
-#hero {
-  background: #393835;
-  padding: 120px 0;
-  font-family: "Reem Kufi", sans-serif;
-  color: var(--cor-amarela);
-}
+
 .portfolio-item {
   margin-bottom: 30px;
 }
@@ -31,6 +26,7 @@ h5 {
   font-family: "Sarala", sans-serif;
   font-weight: 700;
 }
+
 .fs-1 {
   background-color: #f9d218;
 }
