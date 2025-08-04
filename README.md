@@ -16,7 +16,6 @@ O Setembro Amarelo® é a maior campanha anti estigma do mundo, dedicada à prev
 O projeto conta com as seguintes funcionalidades:
 
 * **Página Informativa:** Uma página inicial que apresenta a campanha, divulga estatísticas relevantes e destaca os canais oficiais da causa.
-* **Mural de Apoio:** Uma seção dinâmica onde são exibidas todas as mensagens de apoio enviadas pelos usuários, ordenadas da mais recente para a mais antiga.
 * **Formulário de Envio:** Um formulário simples e seguro para que qualquer pessoa possa enviar sua mensagem, com a opção de se identificar ou permanecer anônima.
 
 ## 💻 Tecnologias Utilizadas
