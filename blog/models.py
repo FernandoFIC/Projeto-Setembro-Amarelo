@@ -26,3 +26,8 @@ class Tag(models.Model):
 
     def __str__(self):
         return self.name 
+    
+class Relatos (models.Model):
+    data_criacao = models.DateTimeField(auto_now_add=True)
+    relato = models.TextField()
+
