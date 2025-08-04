@@ -48,29 +48,18 @@
             <p><i class="bi bi-envelope-fill"></i> contato@seusite.com</p>
           </div>
           <div class="col-lg-6">
-            <form>
+            <form method="POST">
+              {% csrf_token %}
               <div class="mb-3">
-                <input
-                  type="text"
-                  class="form-control"
-                  placeholder="Seu Nome"
-                />
+                {{ form.nome }}
               </div>
               <div class="mb-3">
-                <input
-                  type="email"
-                  class="form-control"
-                  placeholder="Seu E-mail"
-                />
+                {{ form.email }}
               </div>
               <div class="mb-3">
-                <textarea
-                  class="form-control"
-                  rows="4"
-                  placeholder="Sua Mensagem"
-                ></textarea>
+                {{ form.mensagem }}
               </div>
-              <button type="submit" class="btn btn-warning ">
+              <button type="submit" class="btn btn-warning">
                 Enviar Mensagem
               </button>
             </form>
